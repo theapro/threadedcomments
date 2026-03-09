@@ -2,6 +2,8 @@
 
 A Reddit-style hierarchical (threaded) comment system. This project is built with Next.js and features a complex reply system and interactive UI elements.
 
+<img src="public/image.png" width="800" />
+
 ## Features
 
 - **Hierarchical Threads:** Display comments in a nested hierarchy similar to Reddit.
